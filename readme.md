@@ -9,11 +9,11 @@ For all of the files listed below, you should use one of the rookie kit thumb dr
 1. Download and install the latest version of Python 2.7 (32-bit version).
   * Do not install a 3.x version of python
   * Do not install a 64-bit version of python (even if your operating system is 64-bit)
-  * [Windows installer - Python](raw/master/python-2.7.10.msi)
-  * [OSX installer - Python](raw/master/python-2.7.10-macosx10.6.pkg)
+  * [Windows installer - Python](https://github.com/xyloguy/codecamp-rookiekit/raw/master/python-2.7.10.msi)
+  * [OSX installer - Python](https://github.com/xyloguy/codecamp-rookiekit/raw/master/python-2.7.10-macosx10.6.pkg)
 2. Download and install the 32-bit version of PyGame for Python 2.7
-  * [Windows installer - PyGame](raw/master/pygame-1.9.1.win32-py2.7.msi)
-  * [OSX installer - PyGame](raw/master/pygame-1.9.2pre-py2.7-macosx10.7.mpkg.zip)
+  * [Windows installer - PyGame](https://github.com/xyloguy/codecamp-rookiekit/raw/master/pygame-1.9.1.win32-py2.7.msi)
+  * [OSX installer - PyGame](https://github.com/xyloguy/codecamp-rookiekit/raw/master/pygame-1.9.2pre-py2.7-macosx10.7.mpkg.zip)
 
 *Note:* If you are running El Capitan or Sierra, it is suggested that you install python and pygame using homebrew.
 
@@ -38,7 +38,7 @@ Once homebrew is installed you can install python and pygame using the commands 
 
 ## Test your system to verify python and pygame work.
 
-* Download and run [pygame_check.py](raw/master/pygame_check.py)
+* Download and run [pygame_check.py](https://github.com/xyloguy/codecamp-rookiekit/raw/master/pygame_check.py)
 * If you see the following window with Code Camp messages, your system is working
 
 ![Pygame Check Window](pygame_check.png)
